@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="connect">connect</string>
+    <string name="input"> </string>
+    <string name="send">send</string>
+    <string name="welcome">Welcome</string>
+    <string name="username">Username</string>
+    <string name="ip">Server IP</string>
+    <string name="users">Active Users</string>
+    <string name="history">History</string>
+
+</resources>
